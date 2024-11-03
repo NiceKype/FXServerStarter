@@ -3,7 +3,7 @@
 <!-- MAIN INFORMATION -->
 
 <p align="center">
-  <img src="https://nicekype.de/fivem/img/products-banner.png2"><br>
+  <img src="https://nicekype.de/fivem/img/products-banner.png"><br>
   <a href="https://github.com/NiceKype/FXServerStarter#overview">Overview</a> •
   <a href="/CHANGELOG.md">Changelog</a> •
   <a href="https://nicekype.de">Website</a> •
