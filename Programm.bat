@@ -1,36 +1,3 @@
-::[Bat To Exe Converter]
-::
-::YAwzoRdxOk+EWAjk
-::fBw5plQjdCiDJGyX8VAjFC9dQQvCEmK5A54F+O3H3+OEtlgPUfEDVYrS1LHOAukf7kD2Sbgk1X9xgdsJMDVzPjSieAoZ6UpHoHeAJdGZoTPRWEeN80gkCFlHk2LCmGsLctxviMIO3hy3/0Lx0awT3hg=
-::YAwzuBVtJxjWCl3EqQJgSA==
-::ZR4luwNxJguZRRnk
-::Yhs/ulQjdF+5
-::cxAkpRVqdFKZSjk=
-::cBs/ulQjdF+5
-::ZR41oxFsdFKZSDk=
-::eBoioBt6dFKZSDk=
-::cRo6pxp7LAbNWATEpCI=
-::egkzugNsPRvcWATEpCI=
-::dAsiuh18IRvcCxnZtBJQ
-::cRYluBh/LU+EWAnk
-::YxY4rhs+aU+IeA==
-::cxY6rQJ7JhzQF1fEqQJhZksaH2Q=
-::ZQ05rAF9IBncCkqN+0xwdVsFAlTMbws=
-::ZQ05rAF9IAHYFVzEqQIWEChRXhKHLliuB6cI7fqb
-::eg0/rx1wNQPfEVWB+kM9LVsJDGQ=
-::fBEirQZwNQPfEVWB+kM9LVsJDGQ=
-::cRolqwZ3JBvQF1fEqQIWEChRXhKHLliuB6cI7fq75vnHow0OXe8vdIqbyqaBJ/IS5wXwetYp03xTls5MHw9ZbAaiYAh0uW9Qt2mAI8KOoE/nRVrJ/0QlCSVyn3DVnj0+cpMgjtsC1y238g3JmrcD2HfxF+kPG2eh1aMoNcgL+EqgYEyIiqFaTeTvZv3sAiXBJntfmH+DjYpkmsMkUWBhRh0an7h/6in5Udz79WMBLTbVoeLg2xk7aZr6LLcQhA27w3Fcz72wnx0aAXFHCURbThmPADjOEhyBxPzTYg1lqdH+M6duZyk9S/hWDDUMkeUJ+Tuml/siKoiqhySDC9qVEh84IqSlZHyX9Te/Pgs=
-::dhA7uBVwLU+EWDk=
-::YQ03rBFzNR3SWATElA==
-::dhAmsQZ3MwfNWATE2kszLTBNXAHi
-::ZQ0/vhVqMQ3MEVWAtB9wSA==
-::Zg8zqx1/OA3MEVWAtB9wSA==
-::dhA7pRFwIByZRRnk
-::Zh4grVQjdCiDJGyX8VAjFC9dQQvCEmK5A54F+O3H3+OEtlgPUfEDVYrS1LHOAukf7kD2Sbgk1X9xgdsJMDVzPjSieAoZ6UpHoHeAJdGZoTPRWEeN80gkCFlHk2LCmGsLctxviMIO3hyYxH76jbMVw0vrX7saW2b5xMw=
-::YB416Ek+ZG8=
-::
-::
-::978f952a14a936cc963da21a135fa983
 @echo off
 
 REM Konfigurationsdatei einlesen
