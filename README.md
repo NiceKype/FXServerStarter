@@ -11,6 +11,7 @@
   <img src="https://img.shields.io/badge/Status-Ready-43cc11.svg?style=for-the-badge" alt="Status">
   <img src="https://img.shields.io/badge/Last%20Update-03.11.2024-272727.svg?style=for-the-badge" alt="Update">
   <img src="https://img.shields.io/badge/Version-1.0.3-blue.svg?style=for-the-badge" alt="Version">
+  <img src="https://img.shields.io/github/downloads/NiceKype/FXServerStarter/total?style=for-the-badge">
   <img src="https://img.shields.io/github/issues/NiceKype/FXServerStarter.svg?style=for-the-badge">
   <img src="https://dcbadge.limes.pink/api/server/https://discord.gg/nicekype?style=for-the-badge" alt="Discord" href="https://discord.gg/nicekype">
 </p>
