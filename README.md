@@ -38,7 +38,7 @@
 > Since this is a program bases on a batch file your antivirus software can detect it as malware. You can simply look at the source code to see the backend to be safe. So if it happens, you need to make a exception for the file.
 
 <!-- FEATURES -->
-## <img src="https://cdn.discordapp.com/emojis/852881450667081728.gif" width="20px" height="20px"> 》Feature
+## <img src="https://cdn.discordapp.com/emojis/852881450667081728.gif" width="20px" height="20px"> 》Features
 - [x] Starting Title <sup>(A title for the window that get displayed until txadmin takes the title)</sup>
 - [x] Path to FXServer.exe <sup>(Sets the path to the FXServer.exe)</sup>
 - [x] Serverprofile <sup>(You can activate this option and define a profile)</sup>
